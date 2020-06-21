@@ -46,7 +46,7 @@ Explored the data and the categorical distributions. Created plots to visually d
 Below are some of the graphs created with seaborn:
 
 ![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20bracket.png "Number of Apps per Install Bracket")
-![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20Price%20and%20Category.png "Number of Apps per Category")
+![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20category.png "Number of Apps per Category")
 ![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/App%20Ratings%20based%20on%20Price%20and%20Category.png "App Ratings by Price and Category")
 
 
