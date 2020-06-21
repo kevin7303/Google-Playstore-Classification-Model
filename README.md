@@ -45,6 +45,11 @@ The expoloraty data analysis was done to better visualize and understand data se
 Explored the data and the categorical distributions. Created plots to visually display feature relations and possible correlations:
 Below are some of the graphs created with seaborn:
 
+![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20bracket.png "Number of Apps per Install Bracket")
+![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20Price%20and%20Category.png "Number of Apps per Category")
+![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/App%20Ratings%20based%20on%20Price%20and%20Category.png "App Ratings by Price and Category")
+
+
 
 ## Model Building 
 I wanted to create a model that would make meaningful and accurate predictions for aspiring app creators to know what features are the most important when maximizing installs.
