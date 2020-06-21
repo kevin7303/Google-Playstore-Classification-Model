@@ -15,7 +15,7 @@ Project focused on: Data cleaning, Exploratory Data Analysis, Feature Engineerin
 **Original Kaggle Dataset:** https://www.kaggle.com/gauthamp10/google-playstore-apps?select=Google-Playstore-Full.csv
 
 ## Data Overview
-Data contains 267,052 rows and 15 columns:
+Data contains 267,052 rows and 11 columns:
 Columns (features) are:
 *	App Name
 *	Category
@@ -27,6 +27,7 @@ Columns (features) are:
 *	Content Rating
 *	Last Updated
 *	Minimum Version
+* Latest Version
 
 ## Data Cleaning
 I did extensive data cleaning in order to facilitate the exploratory analysis and the model building process:
