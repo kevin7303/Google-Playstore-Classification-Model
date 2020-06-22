@@ -80,11 +80,11 @@ Tuning was done on Random Forest and Gradient Boosting Classifier as their Defau
 **Tuned Models
 *	**Random Forest** – Accuracy: 0.73 
 
-*Best parameters are {'max_depth': 20, 'max_features': 'sqrt', 'n_estimators': 200}
+*Best parameters are {'max_depth': 20, 'max_features': 'sqrt', 'n_estimators': 200}*
 
 *	**Gradient Boosting Classifier** – Accuracy: 0.73
 
-*Best parameters are {'learning_rate': 0.05, 'max_depth': 8, 'n_estimators': 50}
+*Best parameters are {'learning_rate': 0.05, 'max_depth': 8, 'n_estimators': 50}*
 
 **Ensemble method
 * **Voting Classifier** - Accuracy: 0.71
