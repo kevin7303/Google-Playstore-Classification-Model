@@ -71,7 +71,8 @@ I tried 4 different models
 I also used the Voting Classifier ensemble method in an attempt to aggregate the strengths of Random Forest and Gradient Boosting Classifier.
 
 ## Model performance
-Tuning was done on Random Forest and Gradient Boosting Classifier as their Default parameters compared to the two baseline models showed significant iprovement 
+Tuning was done on Random Forest and Gradient Boosting Classifier as their Default parameters compared to the two baseline models showed significant improvement 
+
 **Base Models:
 *	**Decision Tree Classifier** – Accuracy: 0.63
 *	**K Nearest Neighbors** – Accuracy: 0.66
@@ -83,6 +84,6 @@ Tuning was done on Random Forest and Gradient Boosting Classifier as their Defau
 **Ensemble method
 * **Voting Classifier** - Accuracy: 0.71
 
-**A tuned Random Forest was the best model due to high accuracy and lowest computational time
+**A tuned Random Forest was the best model due to high accuracy and lowest computational time**
 
 
