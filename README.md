@@ -57,14 +57,14 @@ I wanted to create a model that would make meaningful and accurate predictions f
 
 **The target label breakdowns and count were:**
 Installs                       Count
-0 - 1,000                      41887
-1,000 - 10,000                 75240
-10,000 - 100,000               83324
-100,000 - 1,000,000            47344
-1,000,000 - 10,000,000         15655
-10,000,000 - 100,000,000        3235
-100,000,000 - 1,000,000,000      318
-1,000,000,000+                    27
+* 0 - 1,000                      41887
+* 1,000 - 10,000                 75240
+* 10,000 - 100,000               83324
+* 100,000 - 1,000,000            47344
+* 1,000,000 - 10,000,000         15655
+* 10,000,000 - 100,000,000        3235
+* 100,000,000 - 1,000,000,000      318
+* 1,000,000,000+                    27
 
 
 Restructured the test data labels to better distribute the classes and create meaning full differences between classification.
