@@ -55,7 +55,9 @@ Below are some of the graphs created with seaborn:
 ## Model Building 
 I wanted to create a model that would make meaningful and accurate predictions for aspiring app creators to know what features are the most important when maximizing installs.
 
-**The target label breakdowns and count were:**
+
+**Restructured the test data labels to better distribute the classes and create meaning full differences between classification class.**
+*The target label breakdowns and count were:*
 * Installs Brackets
 * 0 - 1,000                      
 * 1,000 - 10,000                 
@@ -67,7 +69,6 @@ I wanted to create a model that would make meaningful and accurate predictions f
 * 1,000,000,000+                    
 
 
-Restructured the test data labels to better distribute the classes and create meaning full differences between classification.
 Performed One hot encoding on the categorical variables in order to accomodate Sklearn Decision trees treatment of categorical variables as continuous
 
 Split the data set into  train test split of 70/30, stratified based on Category.
