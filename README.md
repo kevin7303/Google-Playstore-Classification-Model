@@ -56,7 +56,7 @@ Below are some of the graphs created with seaborn:
 I wanted to create a model that would make meaningful and accurate predictions for aspiring app creators to know what features are the most important when maximizing installs.
 
 **The target label breakdowns and count were:**
-Installs Brackets
+* Installs Brackets
 * 0 - 1,000                      
 * 1,000 - 10,000                 
 * 10,000 - 100,000               
