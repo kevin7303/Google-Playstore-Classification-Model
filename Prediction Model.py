@@ -43,7 +43,7 @@ strat = df.Category.values
 df = pd.get_dummies(df, columns=['Content Rating', 'Category', 'Game_genre'], drop_first=True)
 print(df.columns)
 
-#Train Test Split - Simple Random Sampling (No Stratification)
+#Train Test Split - Simple Random Sampling (with Stratification)
 X = df.drop(['Installs'], axis = 1).values
 y = df.Installs.values
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, stratify = strat, random_state = 42)
