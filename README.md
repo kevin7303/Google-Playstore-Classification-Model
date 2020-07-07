@@ -51,7 +51,6 @@ Below are some of the graphs created with seaborn:
 ![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_vs_LivingArea.PNG "Sale Price vs Living Area")
 
 
-
 ## Model Building 
 I wanted to create a model that would make meaningful and accurate predictions for aspiring app creators to know what features are the most important when maximizing installs.
 
