@@ -46,8 +46,8 @@ The expoloraty data analysis was done to better visualize and understand data se
 Explored the data and the categorical distributions. Created plots to visually display feature relations and possible correlations:
 Below are some of the graphs created with seaborn:
 
-![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/CorrMatrix.PNG |width= 200 "Correlation Matrix")
-![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_Distribution.PNG =250x250 "Sale Price Distribution")
+![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/CorrMatrix.PNG |width "Correlation Matrix")
+![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_Distribution.PNG "Sale Price Distribution")
 ![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_vs_LivingArea.PNG "Sale Price vs Living Area")
 
 
