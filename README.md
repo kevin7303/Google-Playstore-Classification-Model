@@ -46,9 +46,9 @@ The expoloraty data analysis was done to better visualize and understand data se
 Explored the data and the categorical distributions. Created plots to visually display feature relations and possible correlations:
 Below are some of the graphs created with seaborn:
 
-![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20bracket.png "Number of Apps per Install Bracket")
-![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/Apps%20per%20category.png "Number of Apps per Category")
-![alt text](https://github.com/kevin7303/Data-Science-Google-Play-Store-ML-Project/blob/master/App%20Ratings%20based%20on%20Price%20and%20Category.png "App Ratings by Price and Category")
+![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/CorrMatrix.PNG "Correlation Matrix")
+![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_Distribution.PNG "Sale Price Distribution")
+![alt text](https://github.com/kevin7303/Housing-Price-Prediction-Model/blob/master/SalePrice_vs_LivingArea.PNG "Sale Price vs Living Area")
 
 
 
